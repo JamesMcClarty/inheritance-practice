@@ -1,0 +1,11 @@
+c:\Users\James\workspace\csharp\inheritance\bin\Debug\netcoreapp3.0\inheritance.exe
+C:\Users\James\workspace\csharp\inheritance\bin\Debug\netcoreapp3.0\inheritance.deps.json
+C:\Users\James\workspace\csharp\inheritance\bin\Debug\netcoreapp3.0\inheritance.runtimeconfig.json
+C:\Users\James\workspace\csharp\inheritance\bin\Debug\netcoreapp3.0\inheritance.runtimeconfig.dev.json
+c:\Users\James\workspace\csharp\inheritance\bin\Debug\netcoreapp3.0\inheritance.dll
+c:\Users\James\workspace\csharp\inheritance\bin\Debug\netcoreapp3.0\inheritance.pdb
+c:\Users\James\workspace\csharp\inheritance\obj\Debug\netcoreapp3.0\inheritance.csprojAssemblyReference.cache
+c:\Users\James\workspace\csharp\inheritance\obj\Debug\netcoreapp3.0\inheritance.AssemblyInfoInputs.cache
+c:\Users\James\workspace\csharp\inheritance\obj\Debug\netcoreapp3.0\inheritance.AssemblyInfo.cs
+c:\Users\James\workspace\csharp\inheritance\obj\Debug\netcoreapp3.0\inheritance.dll
+c:\Users\James\workspace\csharp\inheritance\obj\Debug\netcoreapp3.0\inheritance.pdb
